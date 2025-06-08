@@ -1,0 +1,25 @@
+var driver__ba121_8c =
+[
+    [ "BA121_COMMAND_BASELINE", "driver__ba121_8c.html#ad870b75bf1b0cc5e879ae1e01feb5b17", null ],
+    [ "BA121_COMMAND_NTC_B", "driver__ba121_8c.html#a4dea896b50e1c7dfcb70e00da89f80c2", null ],
+    [ "BA121_COMMAND_NTC_RES", "driver__ba121_8c.html#a2a94dc0d9d812fb1755b910089a765bf", null ],
+    [ "BA121_COMMAND_READ", "driver__ba121_8c.html#ab9f2adaea999a3338df25a3e9d54d9a7", null ],
+    [ "CHIP_NAME", "driver__ba121_8c.html#adc9da0a24824ca1239b593f6459b3954", null ],
+    [ "DRIVER_VERSION", "driver__ba121_8c.html#ae578001fe043b4cca7a0edd801cfe9c4", null ],
+    [ "MANUFACTURER_NAME", "driver__ba121_8c.html#aaa2b8f5b105c3019df0cb346f472e803", null ],
+    [ "MAX_CURRENT", "driver__ba121_8c.html#a2989837a37d6d63b59c6dd541b785435", null ],
+    [ "SUPPLY_VOLTAGE_MAX", "driver__ba121_8c.html#a68eba8b601afe11f1b871d944976c035", null ],
+    [ "SUPPLY_VOLTAGE_MIN", "driver__ba121_8c.html#aac8d8cbd899667d609787ef4cf37054d", null ],
+    [ "TEMPERATURE_MAX", "driver__ba121_8c.html#a90c0b20d54005712fcc8cb01281360e9", null ],
+    [ "TEMPERATURE_MIN", "driver__ba121_8c.html#aab353db5bf4eb787f86a2080f609a551", null ],
+    [ "ba121_baseline_calibration", "group__ba121__basic__driver.html#ga0a79880b36789403e1a40be4343c7977", null ],
+    [ "ba121_deinit", "group__ba121__basic__driver.html#gaed11b8bf0bbd61231b8ed473d34ea09c", null ],
+    [ "ba121_get_buffer", "group__ba121__extern__driver.html#gab443833a2e28a5345dbe7d0e6420931d", null ],
+    [ "ba121_get_last_status", "group__ba121__basic__driver.html#ga24ff008d4de643b96e4dc1c017af8237", null ],
+    [ "ba121_info", "group__ba121__basic__driver.html#ga6ef645c82af28e5dc1af789f3b819d67", null ],
+    [ "ba121_init", "group__ba121__basic__driver.html#ga333b8878afac3c757d15c0b0aa18c5e3", null ],
+    [ "ba121_read", "group__ba121__basic__driver.html#ga1f5cf1feef914a8eca730d0227f65526", null ],
+    [ "ba121_set_buffer", "group__ba121__extern__driver.html#gab6268fd8c8f1a724593d4ec823f5ae50", null ],
+    [ "ba121_set_ntc_b", "group__ba121__basic__driver.html#gada12a6fdabd989770708578075a75cfd", null ],
+    [ "ba121_set_ntc_resistance", "group__ba121__basic__driver.html#gad209bb7c0847965600af7fc464b76b0c", null ]
+];
