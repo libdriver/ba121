@@ -10,7 +10,7 @@
 
 A dedicated chip for detecting the conductivity and water temperature of aqueous solutions, which integrates high-precision oscillation circuits, analog-to-digital conversion circuits, and floating-point arithmetic units. By using patented conductivity conversion algorithm and temperature correction algorithm, the detection of aqueous solution conductivity can be quickly achieved, and automatic temperature correction can be achieved over a wide temperature range to reduce measurement errors caused by changes in conductivity values with temperature.
 
-LibDriver BA121 is a full-featured driver of BA121 launched by LibDriver.It provides the function of conductivity reading, temperature reading and other functions. LibDriver is MISRA compliant.
+LibDriver BA121 is a full-featured driver for BA121, launched by LibDriver.It provides conductivity reading, temperature reading and additional features. LibDriver is MISRA compliant.
 
 ### Table of Contents
 
